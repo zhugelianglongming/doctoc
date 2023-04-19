@@ -78,6 +78,7 @@ var modes = {
   , github    : 'github.com'
   , gitlab    : 'gitlab.com'
   , ghost     : 'ghost.org'
+  , delete    : 'delete'
 }
 
 var mode = modes['github'];

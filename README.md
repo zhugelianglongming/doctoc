@@ -79,6 +79,7 @@ Available modes are:
 --github    github.com
 --gitlab    gitlab.com
 --ghost     ghost.org
+--delete    remove existing TOC
 ```
 
 #### Example
